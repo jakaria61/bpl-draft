@@ -1,0 +1,172 @@
+[
+    {
+        "id": 0,
+        "name": " Md Jakaria",
+        "type": "All-rounder",
+        "rate": 4,
+        "strike": 200,
+        "salary": 210000,
+        "photo": "https://i.ibb.co/5hVW5jc/2017-10-29-15-01-50-327.png",
+        "age": "22"
+    },
+    {
+        "id": 1,
+        "name": " Fahim Ahammed Firoz",
+        "type": "All-rounder",
+        "rate": 4,
+        "strike": 200,
+        "salary": 210000,
+        "photo": "https://i.ibb.co/n1zRfG8/1-3g8-X-a-Ag-MW-Ju-AJUff-NU5-A.png",
+        "age": "22"
+    },
+    {
+        "id": 2,
+        "name": "Sakib All Hasan",
+        "type": "All-rounder",
+        "rate": 4,
+        "strike": 190,
+        "salary": 200000,
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303157.jpg",
+        "age": "33"
+    },
+    {
+        "id": 3,
+        "name": "Mashrafe Bin Mortaza",
+        "type": "Bowler",
+        "rate": 4,
+        "strike": 150,
+        "salary": 200000,
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/302900/302999.jpg",
+        "age": "37"
+    },
+    {
+        "id": 4,
+        "name": "Mushfiqur Rahim",
+        "type": "Wicketkeeper",
+        "rate": 4,
+        "strike": 170,
+        "salary": 180000,
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303148.jpg",
+        "age": "33"
+    },
+    {
+        "id": 5,
+        "name": "Mahmudullah Riyad",
+        "type": "All-rounder",
+        "rate": 3,
+        "strike": 120,
+        "salary": 178000,
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/263500/263581.jpg",
+        "age": "35"
+    },
+    {
+        "id": 6,
+        "name": "Mohammad Mithun",
+        "type": "Batsman",
+        "rate": 3,
+        "strike": 150,
+        "salary": 100000,
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303144.jpg",
+        "age": "29"
+    },
+    {
+        "id": 7,
+        "name": "Mustafizur Rahman",
+        "type": "Bowler",
+        "rate": 4,
+        "strike": 200,
+        "salary": 148900,
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/263500/263578.jpg",
+        "age": "25"
+    },
+    {
+        "id": 8,
+        "name": "Rubel Hossain",
+        "type": "Bowler",
+        "rate": 4,
+        "strike": 200,
+        "salary": 110000,
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/263500/263594.jpg",
+        "age": "31"
+    },
+    {
+        "id": 9,
+        "name": "Afif Hossain",
+        "type": "All-rounder",
+        "rate": 4,
+        "strike": 200,
+        "salary": 98000,
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/306000/306068.1.jpg",
+        "age": "21"
+    },
+    {
+        "id": 10,
+        "name": "Liton Kumar Das",
+        "type": "Batsman",
+        "rate": 4,
+        "strike": 180,
+        "salary": 156000,
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/302900/302995.jpg",
+        "age": "26"
+    },
+    {
+        "id": 11,
+        "name": "Tamim Iqbal",
+        "type": "Batsman",
+        "rate": 4,
+        "strike": 188,
+        "salary": 174000,
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303166.jpg",
+        "age": "31"
+    },
+    {
+        "id": 12,
+        "name": "Mehidy Hasan Miraz",
+        "type": "All-rounder",
+        "rate": 3,
+        "strike": 91,
+        "salary": 134000,
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/303000/303000.jpg",
+        "age": "23"
+    },
+    {
+        "id": 13,
+        "name": "Mohammad Saifuddin",
+        "type": "All-rounder",
+        "rate": 3,
+        "strike": 190,
+        "salary": 128000,
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/303200/303236.jpg",
+        "age": "24"
+    },
+    {
+        "id": 14,
+        "name": "Taskin Ahmed",
+        "type": "Bowler",
+        "rate": 4,
+        "strike": 176,
+        "salary": 130000,
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303169.jpg",
+        "age": "26"
+    },
+    {
+        "id": 15,
+        "name": "Soumya Sarkar",
+        "type": "Batsman",
+        "rate": 4,
+        "strike": 170,
+        "salary": 1360000,
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303160.jpg",
+        "age": "28"
+    },
+    {
+        "id": 16,
+        "name": "Hasan Mahmud",
+        "type": "Bowler",
+        "rate": 2,
+        "strike": 120,
+        "salary": 100000,
+        "photo": "https://p.imgci.com/db/PICTURES/CMS/303200/303249.jpg",
+        "age": "21"
+    }
+]

@@ -1,0 +1,11 @@
+.header{
+    text-align: center;
+    line-height: 20px;
+    font-weight: 800;
+    border-bottom:1px solid lightgrey;
+    margin:0px 80px;
+}
+.heading{
+    color:rgba(128, 0, 128, 0.603);
+    font-size: 40px;
+}

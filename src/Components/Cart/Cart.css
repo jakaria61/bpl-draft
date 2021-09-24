@@ -1,0 +1,12 @@
+.added-name{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+}
+.selected-player{
+    text-align: center;
+    color:rgba(16, 37, 223, 0.856);
+    border-bottom: 1px solid lightgrey;
+}

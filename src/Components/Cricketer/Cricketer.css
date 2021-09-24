@@ -1,0 +1,27 @@
+.cricketer-container{
+    display: grid; 
+    grid-template-columns: repeat(3,1fr);
+    background-color:rgba(223, 214, 214, 0.555);
+    margin-left:80px;
+    border: 1px solid lightgrey;
+    margin-top: 20px;
+    border-radius:10px;
+}
+.cricketer-container img{
+    margin: 25px;
+    margin-top:50px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    
+}
+.icon-color{
+    color: gold;
+}
+.player-button{
+    background-color:rgba(47, 211, 211, 0.774);
+    padding:10px 30px;
+    margin-bottom: 10px;
+    border-radius:5px;
+    cursor: pointer;
+    color:aliceblue;
+}

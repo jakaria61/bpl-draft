@@ -1,0 +1,15 @@
+.players-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 100px;
+
+}
+.selected-players{
+    border-left: 1px solid lightgrey;
+
+}
+.selected-cricketer{
+    margin:0px 10px;
+    margin-top: 20px;
+}

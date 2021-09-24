@@ -1,0 +1,21 @@
+
+.menu{
+    background-color: black;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu a{
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 24px;
+    color: white;
+}
+.menu a:hover{
+    background-color: lightgrey;
+    padding:10px;
+    border-radius: 5px;
+}
+.menu img{
+    width:80px;
+}
