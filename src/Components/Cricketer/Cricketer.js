@@ -2,7 +2,7 @@ import React from 'react';
 import Rating from 'react-rating';
 import './Cricketer.css'
 const Cricketer = (props) => {
-    const { photo, name, type, age, rate, strike, salary } = props.player;
+    const { photo, name, type, age, strike, salary } = props.player;
     return (
 
         <div className='cricketer-container'>
